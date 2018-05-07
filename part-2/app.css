@@ -1,0 +1,78 @@
+/* Variabls */
+:root {
+	--primary-blue: #2196f3;
+	--dark-blue: #1976d2;
+	--light-blue: #bbdefb;
+	--white: #ffffff;
+	--primary-text: #212121;
+	--secondary-text: #757575;
+	--light-gray: #bdbdbd;
+}
+
+/* Resets */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Helvetica, sans-serifs;
+	color: var(--primary-text);
+}
+
+/* Helper Classes */
+
+/* Layout/Flexbox */
+.flex {
+	display: flex;
+}
+
+.flex-center {
+	justify-content: center;
+	align-items: center;
+}
+
+.flex-column {
+	display: flex;
+	flex-direction: column;
+}
+
+.flex-grow-1 {
+	flex-grow: 1;
+}
+
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.hidden {
+	display: none;
+}
+
+.mb-2 {
+	margin-bottom: 20px;
+}
+
+/* Text Classes */
+.primary-text {
+	color: var(--primary-text);
+}
+
+.secondary-text {
+	color: var(--secondary-text);
+}
+
+.light-text {
+	color: var(--light-blue);
+}
+
+.text-center {
+	text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: 300;
+}

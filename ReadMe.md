@@ -1,6 +1,8 @@
 # Design and Build a Chat App with Socket.io
 
-> ## Watch on [YouTube](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbyGwhSlxg16mQGpGnauCwq)
+> Watch on [YouTube](https://www.youtube.com/playlist?list=PLDlWc9AfQBfbyGwhSlxg16mQGpGnauCwq)
+
+![](./images/preview.png)
 
 ## Introduction
 
